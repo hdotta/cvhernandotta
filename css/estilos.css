@@ -102,7 +102,9 @@ header{
     font-stretch: semi-condensed;
     font-family: 'Open Sans';
     color: #999ea4;
-
+}
+.texto-resumen{
+    width: 85%;
 }
 .contenedor-historia-img{
     width: 180%;
@@ -287,6 +289,9 @@ footer{
         width: 80%;
         margin-bottom: 40px;
     }
+    .texto-resumen{
+        width: 80%;
+    }
     .social-media{
         justify-content:space-evenly;
         width: 100%;
@@ -348,6 +353,9 @@ footer{
     .copy{
         font-size: 20px;
         width: 50%;
+    }
+    .contenedor-resumen{
+        width: 100%;
     }
     .contenedor-historia{
         padding-left: 2%;
